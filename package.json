@@ -4,8 +4,8 @@
   "description": "dev connect mern project",
   "main": "index.js",
   "scripts": {
-   "start": "node server",
-   "server": "nodemon server"
+    "start": "node server",
+    "server": "nodemon server"
   },
   "author": "Arpit Paliwal",
   "license": "ISC",
